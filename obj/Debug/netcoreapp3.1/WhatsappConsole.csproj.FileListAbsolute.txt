@@ -1,0 +1,13 @@
+C:\Users\HOME\Documents\WhatsappConsole\bin\Debug\netcoreapp3.1\WhatsappConsole.exe
+C:\Users\HOME\Documents\WhatsappConsole\bin\Debug\netcoreapp3.1\WhatsappConsole.deps.json
+C:\Users\HOME\Documents\WhatsappConsole\bin\Debug\netcoreapp3.1\WhatsappConsole.runtimeconfig.json
+C:\Users\HOME\Documents\WhatsappConsole\bin\Debug\netcoreapp3.1\WhatsappConsole.runtimeconfig.dev.json
+C:\Users\HOME\Documents\WhatsappConsole\bin\Debug\netcoreapp3.1\WhatsappConsole.dll
+C:\Users\HOME\Documents\WhatsappConsole\bin\Debug\netcoreapp3.1\WhatsappConsole.pdb
+C:\Users\HOME\Documents\WhatsappConsole\obj\Debug\netcoreapp3.1\WhatsappConsole.csprojAssemblyReference.cache
+C:\Users\HOME\Documents\WhatsappConsole\obj\Debug\netcoreapp3.1\WhatsappConsole.AssemblyInfoInputs.cache
+C:\Users\HOME\Documents\WhatsappConsole\obj\Debug\netcoreapp3.1\WhatsappConsole.AssemblyInfo.cs
+C:\Users\HOME\Documents\WhatsappConsole\obj\Debug\netcoreapp3.1\WhatsappConsole.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\WhatsappConsole\obj\Debug\netcoreapp3.1\WhatsappConsole.dll
+C:\Users\HOME\Documents\WhatsappConsole\obj\Debug\netcoreapp3.1\WhatsappConsole.pdb
+C:\Users\HOME\Documents\WhatsappConsole\obj\Debug\netcoreapp3.1\WhatsappConsole.genruntimeconfig.cache
