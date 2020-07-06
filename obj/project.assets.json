@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HOME\\Documents\\WhatsappConsole\\WhatsappConsole.csproj",
+      "projectUniqueName": "C:\\Users\\HOME\\Documents\\WhatsConsole\\WhatsappConsole.csproj",
       "projectName": "WhatsappConsole",
-      "projectPath": "C:\\Users\\HOME\\Documents\\WhatsappConsole\\WhatsappConsole.csproj",
+      "projectPath": "C:\\Users\\HOME\\Documents\\WhatsConsole\\WhatsappConsole.csproj",
       "packagesPath": "C:\\Users\\HOME\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HOME\\Documents\\WhatsappConsole\\obj\\",
+      "outputPath": "C:\\Users\\HOME\\Documents\\WhatsConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HOME\\AppData\\Roaming\\NuGet\\NuGet.Config"

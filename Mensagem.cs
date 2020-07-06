@@ -59,7 +59,7 @@ namespace WhatsappConsole
             }
         }
         private string PrepararLinhaCSVMensagem(string novaMensagem, string Destinatario ){
-            return $"destinatario={novaMensagem};texto={Destinatario}";
+            return $"destinatario={Destinatario};texto={novaMensagem}";
         }
     }
 }
